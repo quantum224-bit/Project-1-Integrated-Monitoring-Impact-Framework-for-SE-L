@@ -1,11 +1,5 @@
 # Project-1-Integrated-Monitoring-Impact-Framework-for-SE-L
 
-Bhai, ekdum professional aur simple English mein README taiyar hai. Maine output folder ka naam **`generated_reports`** rakha hai, jo kafi sahi lag raha hai.
-
-Niche wala content apni README.md file mein copy-paste kar dena:
-
-# School Infrastructure & Impact Monitoring
-
 ### Project Overview
 
 This project is designed to monitor school infrastructure and measure the impact of educational interventions. It uses data to rank schools and track student participation.
@@ -36,11 +30,3 @@ This project is designed to monitor school infrastructure and measure the impact
 5. **Step 5:** Check the `generated_reports/` folder for the final output files and charts.
 
 ---
-
-### Bhai ke liye kuch tips:
-
-* **Folder Name:** Maine **`generated_reports`** suggest kiya hai, tu bhi apne folder ka naam yahi rakh dena.
-* **Main File Source:** Link ekdum sahi jagah par laga di hai.
-* **Dummy Data:** Clear mention kar diya hai ki baki files testing ke liye tune khud banayi hain.
-
-Ab tera GitHub ekdum "Professional" lagega. Kuch aur change karna hai toh bata! 🚀 Hehehe.
